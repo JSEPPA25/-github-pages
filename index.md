@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: JSEPPA25 CS471
 ---
 
