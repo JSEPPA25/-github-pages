@@ -1,4 +1,4 @@
 ---
-JSEPPA25: CS471
+title: JSEPPA25 CS471
 ---
 
